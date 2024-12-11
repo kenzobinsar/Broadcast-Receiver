@@ -1,0 +1,1 @@
+AGANYAL (Alert Ganti Sinyal) merupakan aplikasi broadcast-receiver untuk menampilkan notifikasi apabila koneksi internet anda terputus atau ketika koneksi internet anda sudah tersambung kembali. have a nice day:)
